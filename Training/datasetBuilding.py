@@ -23,7 +23,7 @@ names = names[1:]
 
 # Iterating through the information, we are building the descriptions for the models and some questions for each characteristic
 for index,row in tag_data.iterrows():
-    sentence = str(models[index]) + "is a machine learning model."
+    sentence = str(models[index]) + " is a machine learning model. "
     for x in names:
         if row[x] == 1:
             if x == "Classification" or x == "Regression":
@@ -41,17 +41,13 @@ for index,row in tag_data.iterrows():
                     qa.append([("Model that has " +x + "?"), str(models[index]), (0.85 + random.uniform(-0.1,0.1))])
         elif random.random() >= 0.8: # Randomly gives a negative answer
             if x == "Classification" or x == "Regression":
-                sentence += ("It is used for " + x + ". ")
                 qa.append([("Model for " + x + "?"), str(models[index]), (-0.9 + random.uniform(-0.1,0.1))])
             else:
                 if "Model" in x:
-                    sentence += "It is a " + x + ". "
                     qa.append([(x + "?"), str(models[index]), (-0.7 + random.uniform(-0.1,0.1))])
                 elif "Accepts" in x:
-                    sentence += "It " + x + ". "
                     qa.append([("What model " + x + "?"), str(models[index]), (-0.8 + random.uniform(-0.1,0.1))])
                 else:
-                    sentence += "It has " + x + ". "
                     qa.append([("Model that has " +x + "?"), str(models[index]), (-0.85 + random.uniform(-0.1,0.1))])
     data.append([models[index], sentence])
     texts.append(sentence)
