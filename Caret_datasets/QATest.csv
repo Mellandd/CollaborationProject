@@ -1,164 +1,433 @@
 Question,Answer,Score
-Model for Classification?,Boosted Classification Trees (ada),0.8865179208760776
-Model that has Handle Missing Predictor Data?,AdaBoost.M1 (AdaBoost.M1),0.8253688564499483
-Model for Regression?,Adaptive-Network-Based Fuzzy Inference System (ANFIS),0.9301396123158684
-Ensemble Model?,Bagged MARS (bagEarth),0.7242952764900112
-Model that has Multivariate Adaptive Regression Splines?,Bagged Flexible Discriminant Analysis (bagFDA),0.866674433003604
-Generalized Linear Model?,Generalized Additive Model using Splines (bam),0.6090778460186574
-Tree-Based Model?,Bayesian Additive Regression Trees (bartMachine),0.7555932960047639
-What model Accepts Case Weights?,Bayesian Generalized Linear Model (bayesglm),0.8087341102172638
-Model that has Boosting?,Boosted Tree (blackboost),0.7707722477966192
-Model that has Handle Missing Predictor Data?,C5.0 (C5.0),0.8227578706908848
-Rule-Based Model?,C5.0 (C5.0),0.7011138697154994
-Model that has Boosting?,Cost-Sensitive C5.0 (C5.0Cost),0.7711849037333782
-Rule-Based Model?,Single C5.0 Ruleset (C5.0Rules),0.7032962008320959
-Model that has Implicit Feature Selection?,Single C5.0 Tree (C5.0Tree),0.878705994634758
-Model for Classification?,CHi-squared Automated Interaction Detection (chaid),0.8140977546175671
-Model that has Implicit Feature Selection?,Conditional Inference Tree (ctree),0.7501973691558874
-Tree-Based Model?,Conditional Inference Tree (ctree2),0.7101202258307941
-Model for Regression?,Cubist (cubist),0.8435025474930345
-Model that has Implicit Feature Selection?,Cubist (cubist),0.8440756866466492
-Model that has Linear Regression?,Cubist (cubist),0.805509148025831
-Model Tree?,Cubist (cubist),0.7197511505960821
-Rule-Based Model?,Cubist (cubist),0.6786228123097457
-Model for Classification?,Diagonal Discriminant Analysis (dda),0.9697110977217048
-Model for Regression?,Stacked AutoEncoder Deep Neural Network (dnn),0.8839269365389082
-Model for Classification?,Distance Weighted Discrimination with Polynomial Kernel (dwdPoly),0.813874382622628
-Model that has Discriminant Analysis?,Distance Weighted Discrimination with Polynomial Kernel (dwdPoly),0.8134481152730241
-Model for Classification?,Tree Models from Genetic Algorithms (evtree),0.9437842954277768
-Tree-Based Model?,Tree Models from Genetic Algorithms (evtree),0.7663109887439867
-Model for Regression?,Simplified TSK Fuzzy Rules (FS.HGD),0.8553633534889923
-Model for Regression?,Boosted Generalized Additive Model (gamboost),0.9964284192816724
-Model that has Boosting?,Boosted Generalized Additive Model (gamboost),0.7699976530899473
-Model that has Implicit Feature Selection?,Boosted Generalized Additive Model (gamboost),0.8742284638298012
-Ensemble Model?,Gradient Boosting Machines (gbm_h2o),0.6476099815914372
-Model for Classification?,Stochastic Gradient Boosting (gbm),0.8486078067343439
-What model Accepts Case Weights?,Stochastic Gradient Boosting (gbm),0.8301263541161196
-Model that has Multivariate Adaptive Regression Splines?,Multivariate Adaptive Regression Splines (gcvEarth),0.7555486847231406
-Generalized Linear Model?,Generalized Linear Model (glm),0.638184653498508
-Model that has Boosting?,Boosted Generalized Linear Model (glmboost),0.8375682869257874
-Model that has Implicit Feature Selection?,glmnet (glmnet),0.9275439863168262
-Model that has L1 Regularization?,glmnet (glmnet),0.7529572407834662
-Model that has L2 Regularization?,glmnet (glmnet),0.8572493042341367
-Model that has Feature Selection Wrapper?,Generalized Linear Model with Stepwise Feature Selection (glmStepAIC),0.9493819445057188
-Model that has Linear Classifier?,Heteroscedastic Discriminant Analysis (hda),0.8100082196731151
-Model for Classification?,C4.5-like Trees (J48),0.8574512560461242
-Model for Classification?,Rule-Based Classifier (JRip),0.8452638696859752
-Model that has Partial Least Squares?,Partial Least Squares (kernelpls),0.8764304373464484
-Model for Regression?,k-Nearest Neighbors (knn),0.9903597503920728
-Model that has Linear Classifier?,Robust Linear Discriminant Analysis (Linda),0.7767144077504764
-Model that has Linear Regression?,Linear Regression with Stepwise Selection (lmStepAIC),0.7835501714511462
-Model that has Implicit Feature Selection?,Logistic Model Trees (LMT),0.8655953549351677
-Model for Classification?,Localized Linear Discriminant Analysis (loclda),0.8846523883642599
-Model that has Boosting?,Boosted Logistic Regression (LogitBoost),0.8171820833332982
-Model that has Support Vector Machines?,Least Squares Support Vector Machine with Radial Basis Function Kernel (lssvmRadial),0.7637501801406794
-Tree-Based Model?,Model Tree (M5),0.7978153213458193
-Bayesian Model?,Model Averaged Naive Bayes Classifier (manb),0.7630396438529379
-Model that has Linear Classifier?,Maximum Uncertainty Linear Discriminant Analysis (Mlda),0.7751154915028259
-Model for Classification?,Multilayer Perceptron Network with Dropout (mlpKerasDropout),0.8181770669971227
-Model for Regression?,Multilayer Perceptron Network by Stochastic Gradient Descent (mlpSGD),0.8692657847745842
-Model for Classification?,"Multi-Layer Perceptron, multiple layers (mlpWeightDecayML)",0.9539968919639376
-Model that has Implicit Feature Selection?,Multi-Step Adaptive MCP-Net (msaenet),0.8092109972812499
-Model for Regression?,Neural Network (neuralnet),0.9786935054712096
-Model for Classification?,Single Rule Classification (OneR),0.8033462659549679
-Model that has L1 Regularization?,Penalized Ordinal Regression (ordinalNet),0.8677800993356806
-Model for Classification?,Oblique Random Forest (ORFpls),0.9494371101544404
-Model that has Oblique Tree?,Oblique Random Forest (ORFpls),0.7874218873662178
-Model that has Two Class Only?,Oblique Random Forest (ORFpls),0.7890751313004972
-Model that has Ridge Regression?,Oblique Random Forest (ORFridge),0.8169992321718773
-Model for Regression?,partDSA (partDSA),0.954976303425642
-Model that has Implicit Feature Selection?,Penalized Linear Regression (penalized),0.8103979840912442
-Model that has Linear Regression?,Penalized Linear Regression (penalized),0.8133561823133344
-Model that has Linear Classifier?,Partial Least Squares (pls),0.8280980659963197
-Model for Regression?,Partial Least Squares Generalized Linear Models  (plsRglm),0.9585414887084722
-Model for Classification?,Patient Rule Induction Method (PRIM),0.9520807265794404
-Model that has Bagging?,Quantile Random Forest (qrf),0.7992925443772769
-Model that has Bagging?,Quantile Regression Neural Network (qrnn),0.9311881114731978
-Model that has Neural Network?,Quantile Regression Neural Network (qrnn),0.9491182876315832
-Model for Classification?,Random Forest (ranger),0.8416839208413133
-Model that has Bagging?,Random Forest (Rborist),0.9034715741570212
-Model that has L1 Regularization?,Regularized Logistic Regression (regLogistic),0.8324346395130182
-Model for Regression?,Relaxed Lasso (relaxo),0.8404339455472346
-Model that has Discriminant Analysis?,Factor-Based Linear Discriminant Analysis (RFlda),0.940556564061269
-Ensemble Model?,Random Forest Rule-Based Model (rfRules),0.6682869204549242
-Model that has Linear Regression?,Ridge Regression (ridge),0.7946652189252412
-Model for Classification?,CART (rpart),0.8006206618601945
-Tree-Based Model?,CART (rpart),0.6930287910511299
-Tree-Based Model?,CART (rpart2),0.6350658826427926
-Model that has L1 Regularization?,Non-Convex Penalized Quantile Regression (rqnc),0.9237800533198084
-Model that has Quantile Regression?,Non-Convex Penalized Quantile Regression (rqnc),0.8472525940144305
-Ensemble Model?,Regularized Random Forest (RRF),0.7666447026321664
-Model that has Linear Classifier?,Robust Regularized Linear Discriminant Analysis (rrlda),0.8577044346546164
-Model that has Regularization?,Robust Regularized Linear Discriminant Analysis (rrlda),0.8340644910264428
-Rule-Based Model?,Subtractive Clustering and Fuzzy c-Means Rules (SBC),0.6220884580061361
-Model that has Linear Classifier?,Shrinkage Discriminant Analysis (sda),0.7877446337325827
-Model that has Linear Classifier?,Partial Least Squares (simpls),0.8904478473475205
-Model for Classification?,Fuzzy Rules Using the Structural Learning Algorithm on Vague Environment (SLAVE),0.8867931240850558
-Model that has Linear Classifier?,Sparse Partial Least Squares (spls),0.8762217434998094
-Model that has Discriminant Analysis?,Linear Discriminant Analysis with Stepwise Feature Selection (stepLDA),0.9464482297268982
-Model that has String Kernel?,Support Vector Machines with Boundrange String Kernel (svmBoundrangeString),0.9372337466753204
-Model that has Robust Methods?,Support Vector Machines with Exponential String Kernel (svmExpoString),0.7587422000126959
-Model that has Robust Methods?,L2 Regularized Linear Support Vector Machines with Class Weights (svmLinearWeights2),0.8529756353888753
-Model for Regression?,Support Vector Machines with Polynomial Kernel (svmPoly),0.8457540928494722
-Model that has Kernel Method?,Support Vector Machines with Polynomial Kernel (svmPoly),0.8267234201407626
-Model that has Cost Sensitive Learning?,Support Vector Machines with Class Weights (svmRadialWeights),0.9157870519455914
-Bayesian Model?,Tree Augmented Naive Bayes Classifier (tan),0.6759015126851884
-Model that has Categorical Predictors Only?,Tree Augmented Naive Bayes Classifier (tan),0.9204457699471444
-Ensemble Model?,Bagged CART (treebag),0.6464487481900896
-Model that has Logistic Regression?,Cumulative Probability Model for Ordinal Data (vglmCumulative),0.9194703188743992
-Model that has Linear Regression?,Partial Least Squares (widekernelpls),0.896621505661733
-Model that has Partial Least Squares?,Partial Least Squares (widekernelpls),0.7550087605038462
-Rule-Based Model?,Wang and Mendel Fuzzy Rules (WM),0.7928369100091774
-What model Accepts Case Weights?,eXtreme Gradient Boosting (xgbDART),0.7427474075432539
-Ensemble Model?,eXtreme Gradient Boosting (xgbLinear),0.650714543746493
-L1 Regularization Models?,eXtreme Gradient Boosting (xgbLinear),0.6132389298020251
-Model that has Self-Organising Maps?,Self-Organizing Maps (xyf),0.8082699626350748
- How is the model used for Classification?,It has Boosting,0.4253390729427337
- What is awtan?,a machine learning model,0.6055517792701721
- What is the name of the machine learning model that is used for Classification?,Bagged MARS,0.9440640509128572
- What is the name of the machine learning model that is used for classification?,Bagged Flexible Discriminant Analysis,0.7644449770450592
- What is Bayesian Additive Regression Trees used for?,Classification. It is used for Regression,0.5673993229866028
- What is Boosted Linear Model used for?,Classification. It is used for Regression,0.536172017455101
- What is bstSm?,Boosted Smoothing Spline,0.5072881877422333
- How many classes does the Tree Based Model have?,Two,0.73140087723732
- What is Cubist used for?,Regression,0.9590557515621184
- What is Distance Weighted Discrimination with Polynomial Kernel?,a machine learning model,0.4846044927835464
- What is dwdPoly used for?,Classification,0.9396712183952332
- What is Distance Weighted Discrimination with Radial Basis Function Kernel?,a machine learning model,0.5290425568819046
- What is FIR.DM?,Fuzzy Inference Rules by Descent Method,0.4596810489892959
- What does gamboost stand for?,Boosted Generalized Additive Model,0.8251675367355347
- What is Gaussian Process with Radial Basis Function Kernel?,a machine learning model,0.7007932364940643
- Is it a Tree-Based Model?,Gradient Boosting Machines (gbm_h2o)is a machine learning model.It is used for Classification. It is used for Regression. It has Boosting. It is a Ensemble Model. It has Implicit Feature Selection. It is a Tree-Based Model,0.4040502309799194
- What is Stochastic Gradient Boosting?,a machine learning model,0.7402474284172058
- What is the name of the machine learning model?,Generalized Linear Model,0.9193104803562164
- What is it used for?,Classification,0.8000456690788269
- What does J48 have?,Implicit Feature Selection,0.9138504564762115
- What is a machine learning model?,Least Angle Regression,0.938859224319458
- What is a machine learning model?,Linear Regression with Backwards Selection,0.8748238682746887
- What is it used for?,Classification,0.961006760597229
- What model is Manb?,Model Averaged Naive Bayes Classifier,0.6242388039827347
- What is the name of the machine learning model?,Maximum Uncertainty Linear Discriminant Analysis,0.7618167400360107
- What is Multi-Layer Perceptron?,a machine learning model,0.768083781003952
- What is Multilayer Perceptron Network with Weight Decay?,a machine learning model,0.7492230534553528
- What is mlpWeightDecayML?,a machine learning model,0.5385598987340927
- What is Penalized Multinomial Regression?,a machine learning model,0.7464188933372498
- What is it a Bayesian Model?,Naive Bayes,0.9515298306941986
- What is the name of the machine learning model that is used for Classification?,Oblique Random Forest,0.8851231038570404
- What is PART?,Rule-Based Classifier,0.7158688008785248
- What does PART stand for?,Rule-Based Classifier,0.981379210948944
- What is pda2?,Penalized Discriminant Analysis,0.512510135769844
- What is Penalized Linear Regression used for?,Regression,0.9699982702732086
- What is PenalizedLDA?,a machine learning model,0.4692582190036773
- What does rf stand for?,Random Forest,0.9518421292304992
- What is the name of the machine learning model used for Classification?,Rotation Forest,0.9268860816955566
- What is CART used for?,Classification,0.9035479426383972
- What is RRF used for?,Classification,0.8888979852199554
- What is Robust Regularized Linear Discriminant Analysis?,a machine learning model,0.5085208714008331
- What is Robust SIMCA?,a machine learning model,0.7199982404708862
- What is a machine learning model?,Partial Least Squares,0.9362687766551973
- What does stepQDA stand for?,Stepwise Feature Selection,0.7635689079761505
- What is it used for?,Classification,0.6448539793491364
- What is L2 Regularized Linear Support Vector Machines with Class Weights used for?,Classification,0.9251679480075836
- What is svmRadialSigma?,a machine learning model,0.5166576653718948
- What is Tree Augmented Naive Bayes Classifier Structure Learner Wrapper?,a machine learning model,0.7228399515151978
- What is eXtreme Gradient Boosting?,a machine learning model,0.7491590082645416
+Model that has Two Class Only?,Boosted Classification Trees (ada),0.809052135185707
+Model that has Discriminant Analysis?,Adaptive Mixture Discriminant Analysis (amdai),0.8598078268195669
+Model that has Discriminant Analysis?,Model Averaged Neural Network (avNNet),-0.7500544043138886
+Model that has L2 Regularization?,Model Averaged Neural Network (avNNet),0.8201563414347531
+Model that has Partial Least Squares?,Tree Augmented Naive Bayes Classifier with Attribute Weighting (awtan),-0.8112607069298163
+Model for Classification?,Bagged Model (bag),0.8632991328778805
+Model for Regression?,Bagged Model (bag),0.9274068962833428
+Model that has Quantile Regression?,Bagged Model (bag),-0.7751619840687795
+Model that has Bagging?,Bagged MARS (bagEarth),0.8625837820758004
+Model for Classification?,Bagged MARS using gCV Pruning (bagEarthGCV),0.8449200114976279
+Model that has Gaussian Process?,Bagged MARS using gCV Pruning (bagEarthGCV),-0.9454408491140784
+L1 Regularization Models?,Bagged MARS using gCV Pruning (bagEarthGCV),-0.6895746209547959
+Model that has Bagging?,Bagged Flexible Discriminant Analysis (bagFDA),0.905092739892077
+Feature Extraction Models?,Bagged Flexible Discriminant Analysis (bagFDA),-0.6118274827085326
+Model that has Implicit Feature Selection?,Bagged Flexible Discriminant Analysis (bagFDA),0.818508826622187
+Model that has Multivariate Adaptive Regression Splines?,Bagged Flexible Discriminant Analysis (bagFDA),0.7516681399711999
+Model that has Ordinal Outcomes?,Generalized Additive Model using Splines (bam),-0.7642799449466569
+Model that has Regularization?,Generalized Additive Model using Splines (bam),-0.922654705251178
+Tree-Based Model?,Bayesian Additive Regression Trees (bartMachine),0.6478005725705556
+Model for Regression?,Bayesian Generalized Linear Model (bayesglm),0.8043133456385975
+Model that has String Kernel?,Bayesian Generalized Linear Model (bayesglm),-0.9457675561044382
+Linear Regression Models?,Binary Discriminant Analysis (binda),-0.7613331709317587
+Model that has Robust Methods?,Boosted Tree (blackboost),-0.9443782300312564
+Model that has Relevance Vector Machines?,Bayesian Ridge Regression (bridge),-0.7790896953210349
+Model that has Feature Extraction?,Bayesian Regularized Neural Networks (brnn),-0.9346368640330984
+Model that has Radial Basis Function?,Boosted Linear Model (BstLm),-0.8645991587993505
+Model that has Boosting?,Boosted Tree (bstTree),0.7843052232597758
+Model that has Handle Missing Predictor Data?,Cost-Sensitive C5.0 (C5.0Cost),0.8017309792104736
+Model that has Partial Least Squares?,Cost-Sensitive C5.0 (C5.0Cost),-0.8981780075343265
+Model that has Categorical Predictors Only?,Single C5.0 Ruleset (C5.0Rules),-0.8831910807624559
+Polynomial Model?,Single C5.0 Ruleset (C5.0Rules),-0.731722832230924
+Rule-Based Model?,Single C5.0 Ruleset (C5.0Rules),0.7116186079487276
+What model Accepts Case Weights?,Single C5.0 Tree (C5.0Tree),0.73473550505127
+Model that has Bagging?,Single C5.0 Tree (C5.0Tree),-0.8633876504789426
+Model that has Support Vector Machines?,Single C5.0 Tree (C5.0Tree),-0.8247723251649337
+Model that has Implicit Feature Selection?,Conditional Inference Random Forest (cforest),0.9410947740898804
+Model that has Boosting?,CHi-squared Automated Interaction Detection (chaid),-0.9035621698127774
+Model that has Two Class Only?,CHi-squared Automated Interaction Detection (chaid),0.7989859504683072
+Generalized Linear Models?,SIMCA (CSimca),-0.7363505168268766
+Model that has L2 Regularization?,SIMCA (CSimca),-0.8917673134521822
+Robust Model?,SIMCA (CSimca),0.6749361390996159
+Model that has Distance Weighted Discrimination?,Conditional Inference Tree (ctree),-0.8042298711647415
+Polynomial Model?,Conditional Inference Tree (ctree2),-0.7201265575461722
+Model that has Boosting?,Cubist (cubist),0.8508523868837672
+Model that has Kernel Method?,Cubist (cubist),-0.915421186463092
+Model that has Robust Methods?,Cubist (cubist),-0.9141248347005516
+Model that has Text Mining?,Cubist (cubist),-0.792121725484322
+Feature Extraction Models?,Diagonal Discriminant Analysis (dda),-0.7128164637690203
+Linear Classifier Models?,Diagonal Discriminant Analysis (dda),-0.6848513395542539
+Robust Model?,Diagonal Discriminant Analysis (dda),-0.7434921051461992
+What model Accepts Case Weights?,DeepBoost (deepboost),0.8741823102529488
+Model that has L1 Regularization?,DeepBoost (deepboost),0.7618567981464885
+Model for Regression?,Dynamic Evolving Neural-Fuzzy Inference System  (DENFIS),0.985695126660588
+Model that has Ordinal Outcomes?,Dynamic Evolving Neural-Fuzzy Inference System  (DENFIS),-0.8851889676651823
+Rule-Based Model?,Dynamic Evolving Neural-Fuzzy Inference System  (DENFIS),0.6021172134651344
+Model that has Binary Predictors Only?,Stacked AutoEncoder Deep Neural Network (dnn),-0.8239249435306475
+What model Accepts Case Weights?,Linear Distance Weighted Discrimination (dwdLinear),-0.845586188141043
+Generalized Linear Model?,Linear Distance Weighted Discrimination (dwdLinear),-0.7031364470872224
+Model that has Logistic Regression?,Linear Distance Weighted Discrimination (dwdLinear),-0.9249350466339928
+Model that has Two Class Only?,Linear Distance Weighted Discrimination (dwdLinear),0.8328461323301267
+Model that has Logistic Regression?,Distance Weighted Discrimination with Radial Basis Function Kernel (dwdRadial),-0.8514523942247451
+Model that has Robust Methods?,Distance Weighted Discrimination with Radial Basis Function Kernel (dwdRadial),-0.7827176916505926
+Model for Regression?,Multivariate Adaptive Regression Spline (earth),0.8682084625806401
+Model that has Radial Basis Function?,Multivariate Adaptive Regression Spline (earth),-0.8551875998773342
+Model for Classification?,Extreme Learning Machine (elm),0.873079405940532
+Rule-Based Model?,Extreme Learning Machine (elm),-0.6820938782979783
+Polynomial Model?,Elasticnet (enet),-0.6767728125709023
+Model for Regression?,Tree Models from Genetic Algorithms (evtree),0.8099778625053609
+Model that has Oblique Tree?,Tree Models from Genetic Algorithms (evtree),-0.7699566667654435
+Linear Classifier Models?,Random Forest by Randomization (extraTrees),-0.6406032783987472
+Model that has Distance Weighted Discrimination?,Fuzzy Rules Using Genetic Cooperative-Competitive Learning and Pittsburgh (FH.GBML),-0.852990481210162
+Model that has Multivariate Adaptive Regression Splines?,Fuzzy Rules Using Genetic Cooperative-Competitive Learning and Pittsburgh (FH.GBML),-0.8432840718483006
+Model that has Ridge Regression?,Fuzzy Inference Rules by Descent Method (FIR.DM),-0.7988038102696112
+Model that has Kernel Method?,Ridge Regression with Variable Selection (foba),-0.808654632828359
+L2 Regularization Models?,Ridge Regression with Variable Selection (foba),-0.773127070677418
+Model that has Logistic Regression?,Ridge Regression with Variable Selection (foba),-0.7664435054178292
+Model that has Multivariate Adaptive Regression Splines?,Fuzzy Rules Using Chi's Method (FRBCS.CHI),-0.7768453399296127
+Model that has Regularization?,Fuzzy Rules Using Chi's Method (FRBCS.CHI),-0.7845460196247934
+Model that has Support Vector Machines?,Fuzzy Rules Using Chi's Method (FRBCS.CHI),-0.8803318071951006
+Model that has Radial Basis Function?,Fuzzy Rules with Weight Factor (FRBCS.W),-0.9108875937455309
+Ensemble Model?,Simplified TSK Fuzzy Rules (FS.HGD),-0.6286005123958825
+Model that has Implicit Feature Selection?,Simplified TSK Fuzzy Rules (FS.HGD),-0.9249138768120524
+L1 Regularization Models?,Boosted Generalized Additive Model (gamboost),-0.7281471925698509
+Model that has Two Class Only?,Boosted Generalized Additive Model (gamboost),0.7787148177571737
+Model for Classification?,Generalized Additive Model using LOESS (gamLoess),0.884263416040486
+Model for Classification?,Generalized Additive Model using Splines (gamSpline),0.8815258146695842
+Model for Regression?,Generalized Additive Model using Splines (gamSpline),0.9467197589620238
+Discriminant Analysis Models?,Generalized Additive Model using Splines (gamSpline),-0.7669123363761576
+Model that has Ridge Regression?,Generalized Additive Model using Splines (gamSpline),-0.9035862724233736
+Model Tree?,Gaussian Process (gaussprLinear),-0.6024662971390098
+Model for Classification?,Gaussian Process with Polynomial Kernel (gaussprPoly),0.8505922524074879
+Model for Classification?,Gaussian Process with Radial Basis Function Kernel (gaussprRadial),0.8180430838795992
+Model that has Discriminant Analysis?,Stochastic Gradient Boosting (gbm),-0.8653978560660746
+Model that has Implicit Feature Selection?,Stochastic Gradient Boosting (gbm),0.8721706674294711
+Model that has Quantile Regression?,Stochastic Gradient Boosting (gbm),-0.8022751915235837
+Polynomial Model?,Multivariate Adaptive Regression Splines (gcvEarth),-0.7957642200857236
+What model Accepts Case Weights?,Fuzzy Rules via MOGUL (GFS.FR.MOGUL),-0.7183897066499176
+Ensemble Model?,Genetic Lateral Tuning and Rule Selection of Linguistic Fuzzy Systems (GFS.LT.RS),-0.7905272613500459
+Robust Model?,Genetic Lateral Tuning and Rule Selection of Linguistic Fuzzy Systems (GFS.LT.RS),-0.6071050129477776
+Model for Classification?,Fuzzy Rules via Thrift (GFS.THRIFT),-0.8205182788902872
+Model that has Feature Selection Wrapper?,Fuzzy Rules via Thrift (GFS.THRIFT),-0.8415612815884355
+Model that has Feature Selection Wrapper?,Negative Binomial Generalized Linear Model (glm.nb),-0.8007083029549188
+Generalized Linear Model?,Negative Binomial Generalized Linear Model (glm.nb),0.6050952177225711
+Model that has Two Class Only?,Generalized Linear Model (glm),0.8262885039113712
+Model that has Patient Rule Induction Method?,Boosted Generalized Linear Model (glmboost),-0.8464617556619406
+Prototype Models?,Boosted Generalized Linear Model (glmboost),-0.6578230110580844
+Model that has Quantile Regression?,Boosted Generalized Linear Model (glmboost),-0.7897694312942856
+Model that has Linear Classifier?,glmnet (glmnet_h2o),0.9494363372039524
+Model that has Linear Regression?,glmnet (glmnet_h2o),0.8831862584841774
+Model that has Linear Classifier?,glmnet (glmnet),0.8420447747633635
+Linear Classifier Models?,glmnet (glmnet),-0.7554523220296536
+Mixture Model?,glmnet (glmnet),-0.7252809140298881
+Polynomial Model?,glmnet (glmnet),-0.6702795520402433
+Model that has Self-Organising Maps?,glmnet (glmnet),-0.7613193901951848
+Model that has Two Class Only?,glmnet (glmnet),-0.8646641052499386
+Model that has Implicit Feature Selection?,Generalized Linear Model with Stepwise Feature Selection (glmStepAIC),0.8786612474120793
+Model that has Linear Classifier?,Generalized Linear Model with Stepwise Feature Selection (glmStepAIC),0.8789466606651829
+Model that has Linear Regression?,Generalized Linear Model with Stepwise Feature Selection (glmStepAIC),-0.8572749412443424
+Rule-Based Model?,Generalized Linear Model with Stepwise Feature Selection (glmStepAIC),-0.6304678114718562
+Model that has Feature Selection Wrapper?,Generalized Partial Least Squares (gpls),-0.9333690420699154
+Model Tree?,Generalized Partial Least Squares (gpls),-0.7519134982682506
+Model that has Quantile Regression?,Generalized Partial Least Squares (gpls),-0.8317925560985073
+Model that has Radial Basis Function?,Generalized Partial Least Squares (gpls),-0.8911913876817913
+Model that has Robust Methods?,Generalized Partial Least Squares (gpls),-0.8631206988069421
+Generalized Additive Model?,Heteroscedastic Discriminant Analysis (hda),-0.7020285660947267
+Model that has Oblique Tree?,High-Dimensional Regularized Discriminant Analysis (hdrda),-0.7733723978998231
+Model that has Boosting?,Hybrid Neural Fuzzy Inference System (HYFIS),-0.9388985990069088
+Model that has L2 Regularization?,Hybrid Neural Fuzzy Inference System (HYFIS),-0.9188328412487408
+Model that has Feature Extraction?,Independent Component Regression (icr),0.7876509889983806
+Model that has Linear Regression?,Independent Component Regression (icr),0.8118826529589678
+Model that has Logic Regression?,Independent Component Regression (icr),-0.8353197244158507
+Model that has Neural Network?,C4.5-like Trees (J48),-0.922911057550883
+Model that has Feature Extraction?,Rule-Based Classifier (JRip),-0.82072271362849
+Model that has L2 Regularization?,Rule-Based Classifier (JRip),-0.9278893730648132
+Model that has Categorical Predictors Only?,Partial Least Squares (kernelpls),-0.8532073182351495
+Tree-Based Model?,Partial Least Squares (kernelpls),-0.6610655619264432
+Model that has Neural Network?,k-Nearest Neighbors (kknn),-0.9353543087745666
+Model for Classification?,k-Nearest Neighbors (knn),0.9496647072097522
+Model that has Linear Classifier?,k-Nearest Neighbors (knn),-0.9258999745587062
+Robust Model?,k-Nearest Neighbors (knn),-0.777172432452542
+Model that has Binary Predictors Only?,Polynomial Kernel Regularized Least Squares (krlsPoly),-0.7819094283510443
+Model that has Feature Extraction?,Polynomial Kernel Regularized Least Squares (krlsPoly),-0.9120943821533852
+Model that has Multivariate Adaptive Regression Splines?,Polynomial Kernel Regularized Least Squares (krlsPoly),-0.8452438846064749
+Model that has ROC Curves?,Radial Basis Function Kernel Regularized Least Squares (krlsRadial),-0.9310309789195564
+Model that has Gaussian Process?,Least Angle Regression (lars),-0.8513752482468624
+Model Tree?,Least Angle Regression (lars),-0.7885656792546538
+Model that has Linear Regression?,Least Angle Regression (lars2),0.873845476566856
+Linear Regression Models?,Least Angle Regression (lars2),-0.7324529718176581
+Robust Model?,Least Angle Regression (lars2),-0.7553947794095743
+Model that has Support Vector Machines?,The lasso (lasso),-0.822020652793495
+Rule-Based Model?,Linear Discriminant Analysis (lda),-0.6866648070253378
+Model that has L2 Regularization?,Linear Discriminant Analysis (lda2),-0.842424824744772
+Model that has Linear Classifier?,Linear Discriminant Analysis (lda2),0.855301969571625
+Discriminant Analysis Models?,Linear Regression with Backwards Selection (leapBackward),-0.7002908774353399
+Generalized Additive Model?,Linear Regression with Backwards Selection (leapBackward),-0.6423093827200623
+Model that has Implicit Feature Selection?,Linear Regression with Backwards Selection (leapBackward),-0.8461142575031231
+Model that has Distance Weighted Discrimination?,Linear Regression with Forward Selection (leapForward),-0.8909704239419374
+Model that has Ridge Regression?,Linear Regression with Forward Selection (leapForward),-0.8897276467445295
+Model that has String Kernel?,Linear Regression with Forward Selection (leapForward),-0.940880005762953
+Model that has Distance Weighted Discrimination?,Linear Regression with Stepwise Selection (leapSeq),-0.9475188046532632
+Feature Extraction Models?,Linear Regression with Stepwise Selection (leapSeq),-0.7145152650271848
+Model that has Cost Sensitive Learning?,Robust Linear Discriminant Analysis (Linda),-0.8965048156501542
+Generalized Linear Models?,Linear Regression (lm),-0.7770489770393434
+Model for Classification?,Linear Regression with Stepwise Selection (lmStepAIC),-0.8601371337570173
+Model that has Ordinal Outcomes?,Linear Regression with Stepwise Selection (lmStepAIC),-0.936500133440997
+Linear Classifier Models?,Logistic Model Trees (LMT),-0.782762116734931
+Model that has Self-Organising Maps?,Localized Linear Discriminant Analysis (loclda),-0.943386906136746
+Model that has Logic Regression?,Bagged Logic Regression (logicBag),0.7710035885163881
+Model that has Regularization?,Bagged Logic Regression (logicBag),-0.8989196966337942
+Model that has Bagging?,Logic Regression (logreg),-0.8260335158661626
+Model for Classification?,Least Squares Support Vector Machine (lssvmLinear),0.897929800715455
+Model that has Relevance Vector Machines?,Least Squares Support Vector Machine (lssvmLinear),-0.8554598859441165
+Model that has Support Vector Machines?,Least Squares Support Vector Machine (lssvmLinear),0.8983963261925607
+Polynomial Model?,Least Squares Support Vector Machine with Polynomial Kernel (lssvmPoly),0.6156283817544822
+Model that has Random Forest?,Least Squares Support Vector Machine with Polynomial Kernel (lssvmPoly),-0.92300769427464
+Ensemble Model?,Least Squares Support Vector Machine with Radial Basis Function Kernel (lssvmRadial),-0.6798255050887947
+Model that has Binary Predictors Only?,Learning Vector Quantization (lvq),-0.8703279753735661
+Discriminant Analysis Models?,Learning Vector Quantization (lvq),-0.6850057085964433
+Model that has Oblique Tree?,Model Tree (M5),-0.7820745721537321
+Model that has Radial Basis Function?,Model Tree (M5),-0.7714890252785982
+Model that has Robust Methods?,Model Rules (M5Rules),-0.8229102962644363
+L1 Regularization Models?,Model Averaged Naive Bayes Classifier (manb),-0.6925726269400924
+Model for Regression?,Multilayer Perceptron Network with Weight Decay (mlpKerasDecay),0.9669446551367468
+Model that has Binary Predictors Only?,Multilayer Perceptron Network with Weight Decay (mlpKerasDecay),-0.7687700766703324
+Mixture Model?,Multilayer Perceptron Network with Weight Decay (mlpKerasDecay),-0.7236120022343661
+Model that has String Kernel?,Multilayer Perceptron Network with Weight Decay (mlpKerasDecay),-0.8848910659125927
+Model that has Support Vector Machines?,Multilayer Perceptron Network with Weight Decay (mlpKerasDecay),-0.7631048455257173
+Robust Model?,Multilayer Perceptron Network with Weight Decay (mlpKerasDecayCost),-0.7860996729066722
+Model that has Binary Predictors Only?,Multilayer Perceptron Network with Dropout (mlpKerasDropout),-0.9078593905243668
+Model that has Linear Regression?,Multilayer Perceptron Network with Dropout (mlpKerasDropout),-0.7803015715505214
+Model that has Patient Rule Induction Method?,"Multi-Layer Perceptron, with multiple layers (mlpML)",-0.788677064626617
+Model that has String Kernel?,"Multi-Layer Perceptron, with multiple layers (mlpML)",-0.7531485016999645
+Model that has Regularization?,Multilayer Perceptron Network by Stochastic Gradient Descent (mlpSGD),-0.8284988036279479
+Model that has Partial Least Squares?,Multi-Layer Perceptron (mlpWeightDecay),-0.8154947968380575
+Model that has Categorical Predictors Only?,Monotone Multi-Layer Perceptron Neural Network (monmlp),-0.7650368582254303
+Model that has Multivariate Adaptive Regression Splines?,Monotone Multi-Layer Perceptron Neural Network (monmlp),-0.761752700605091
+Tree-Based Model?,Monotone Multi-Layer Perceptron Neural Network (monmlp),-0.7030484762319191
+Discriminant Analysis Models?,Multi-Step Adaptive MCP-Net (msaenet),-0.6718046605676427
+Model that has Linear Regression?,Multi-Step Adaptive MCP-Net (msaenet),0.9109724800790496
+Model that has Logistic Regression?,Multi-Step Adaptive MCP-Net (msaenet),-0.8913857690731077
+Mixture Model?,Multi-Step Adaptive MCP-Net (msaenet),-0.607378626969686
+Model that has Support Vector Machines?,Multi-Step Adaptive MCP-Net (msaenet),-0.9031706149815676
+Tree-Based Model?,Multi-Step Adaptive MCP-Net (msaenet),-0.6066562940658266
+Model for Classification?,Penalized Multinomial Regression (multinom),0.968928959136364
+Generalized Additive Model?,Neural Network (mxnet),-0.7934369225641185
+Linear Regression Models?,Neural Network (mxnet),-0.6667221617021015
+Model that has Ridge Regression?,Neural Network (mxnet),-0.8898311705623719
+Model for Classification?,Neural Network (mxnetAdam),0.9299451521914698
+Model that has L2 Regularization?,Naive Bayes (nb),-0.8605826531416599
+L2 Regularization Models?,Naive Bayes (nb),-0.6311099676790382
+Model that has Linear Regression?,Naive Bayes Classifier (nbDiscrete),-0.7580117725299256
+Model that has Oblique Tree?,Naive Bayes Classifier (nbDiscrete),-0.9354916781145992
+Model that has Support Vector Machines?,Naive Bayes Classifier (nbDiscrete),-0.7905353413786506
+Model that has Linear Regression?,Semi-Naive Structure Learner Wrapper (nbSearch),-0.874105758095934
+Model that has Relevance Vector Machines?,Semi-Naive Structure Learner Wrapper (nbSearch),-0.7706762926372376
+L2 Regularization Models?,Neural Network (nnet),-0.7492966347843867
+Model for Classification?,Non-Negative Least Squares (nnls),-0.8466174924259567
+Model that has Linear Regression?,Non-Negative Least Squares (nnls),0.7857811195756677
+Model that has Random Forest?,Tree-Based Ensembles (nodeHarvest),-0.8317315153649659
+Model for Classification?,Non-Informative Model (null),0.9432007155565708
+Model that has Handle Missing Predictor Data?,Non-Informative Model (null),-0.8085737784003324
+Polynomial Model?,Non-Informative Model (null),-0.7757942934650262
+Model that has L2 Regularization?,Single Rule Classification (OneR),-0.8690189616145286
+Model that has Random Forest?,Single Rule Classification (OneR),-0.7963272429246826
+Bayesian Model?,Penalized Ordinal Regression (ordinalNet),-0.7890441654472972
+Generalized Linear Model?,Penalized Ordinal Regression (ordinalNet),0.6881323026454994
+Model that has Ordinal Outcomes?,Random Forest (ordinalRF),0.9057416701027966
+Model that has String Kernel?,Random Forest (ordinalRF),-0.943237417910455
+Model that has L1 Regularization?,Oblique Random Forest (ORFlog),-0.899462433228698
+Model that has Two Class Only?,Oblique Random Forest (ORFlog),0.8537515035838861
+Discriminant Analysis Models?,Oblique Random Forest (ORFpls),-0.7066058363863004
+Generalized Linear Model?,Oblique Random Forest (ORFpls),-0.7210452264919125
+Linear Classifier Models?,Oblique Random Forest (ORFpls),-0.7906254579789845
+Model that has Logistic Regression?,Oblique Random Forest (ORFpls),-0.8576043174990002
+Model that has Multivariate Adaptive Regression Splines?,Oblique Random Forest (ORFpls),-0.8883511852526325
+Model that has Feature Selection Wrapper?,Oblique Random Forest (ORFridge),-0.7954614841745755
+Model that has Kernel Method?,Oblique Random Forest (ORFridge),-0.8971900730753106
+Model that has Patient Rule Induction Method?,Oblique Random Forest (ORFridge),-0.8881617908899342
+Model that has L1 Regularization?,Oblique Random Forest (ORFsvm),-0.9247196188673928
+Polynomial Model?,Optimal Weighted Nearest Neighbor Classifier (ownn),-0.7814126786317712
+Prototype Models?,Optimal Weighted Nearest Neighbor Classifier (ownn),0.7924999630270865
+Model that has Support Vector Machines?,Nearest Shrunken Centroids (pam),-0.77698718849867
+Model that has Handle Missing Predictor Data?,Rule-Based Classifier (PART),-0.7826340951875145
+Model for Regression?,partDSA (partDSA),0.8886837861087912
+Bayesian Model?,partDSA (partDSA),-0.6036264926205328
+Model that has Feature Extraction?,Neural Networks with Feature Extraction (pcaNNet),0.796151820092593
+Model that has Kernel Method?,Neural Networks with Feature Extraction (pcaNNet),-0.8589878251346041
+Model for Classification?,Penalized Discriminant Analysis (pda2),0.8179513630659196
+Ensemble Model?,Penalized Linear Discriminant Analysis (PenalizedLDA),-0.6154457901238766
+Model that has Implicit Feature Selection?,Penalized Linear Discriminant Analysis (PenalizedLDA),0.9354487589947628
+Model that has Relevance Vector Machines?,Penalized Linear Discriminant Analysis (PenalizedLDA),-0.901000272477609
+Tree-Based Model?,Penalized Linear Discriminant Analysis (PenalizedLDA),-0.6460887649514435
+Model that has Distance Weighted Discrimination?,Partial Least Squares (pls),-0.7555518157633897
+Model that has Linear Regression?,Partial Least Squares (pls),0.8436104552539794
+Model that has Self-Organising Maps?,Partial Least Squares (pls),-0.9184873846836574
+Model that has Partial Least Squares?,Partial Least Squares Generalized Linear Models  (plsRglm),0.9108195261339994
+Model that has Kernel Method?,Projection Pursuit Regression (ppr),-0.8609295726788595
+Model that has Ridge Regression?,Projection Pursuit Regression (ppr),-0.7873438633112382
+L1 Regularization Models?,Patient Rule Induction Method (PRIM),-0.6916481226214339
+Model that has Robust Methods?,Patient Rule Induction Method (PRIM),-0.8137093099595276
+Rule-Based Model?,Patient Rule Induction Method (PRIM),0.6550419066045583
+Robust Model?,Robust Quadratic Discriminant Analysis (QdaCov),-0.7013028670309733
+Model that has Bagging?,Quantile Random Forest (qrf),0.8690760677936281
+Model for Regression?,Quantile Regression Neural Network (qrnn),0.8488662868150826
+Model that has Binary Predictors Only?,Quantile Regression Neural Network (qrnn),-0.8123672551263037
+Model that has Linear Classifier?,Ensembles of Generalized Linear Models (randomGLM),0.8369649384323199
+Model that has Partial Least Squares?,Ensembles of Generalized Linear Models (randomGLM),-0.783954221939004
+Model that has Two Class Only?,Ensembles of Generalized Linear Models (randomGLM),-0.841333116031107
+Model that has Random Forest?,Random Forest (ranger),0.8674583221083274
+Model that has L2 Regularization?,Radial Basis Function Network (rbfDDA),0.8723698295994456
+Model that has Regularization?,Regularized Discriminant Analysis (rda),0.7835471801428151
+Model for Classification?,Regularized Logistic Regression (regLogistic),0.9435968164861478
+Model that has Ordinal Outcomes?,Regularized Logistic Regression (regLogistic),-0.8956523800617204
+Model that has L2 Regularization?,Relaxed Lasso (relaxo),0.8179807335052645
+Model for Regression?,Random Forest (rf),0.8698938530182744
+Model that has Random Forest?,Random Forest (rf),0.8840112799281489
+Model that has Handle Missing Predictor Data?,Random Ferns (rFerns),-0.8508595456471121
+Model for Regression?,Factor-Based Linear Discriminant Analysis (RFlda),-0.9852615724098892
+Model that has Feature Extraction?,Factor-Based Linear Discriminant Analysis (RFlda),-0.7824440436465392
+Model that has Implicit Feature Selection?,Random Forest Rule-Based Model (rfRules),0.7507341810459209
+Model that has L2 Regularization?,Random Forest Rule-Based Model (rfRules),-0.8032451213702103
+Model that has Support Vector Machines?,Random Forest Rule-Based Model (rfRules),-0.8160330345872269
+Model that has Neural Network?,Ridge Regression (ridge),-0.8891245834238888
+Model that has Linear Regression?,Regularized Linear Discriminant Analysis (rlda),-0.9229634533583236
+Robust Model?,Robust Linear Model (rlm),0.6664170494962176
+Model that has Discriminant Analysis?,Robust Mixture Discriminant Analysis (rmda),0.8984701484525368
+Model that has Linear Classifier?,Robust Mixture Discriminant Analysis (rmda),-0.8980352769052233
+Model that has Partial Least Squares?,Robust Mixture Discriminant Analysis (rmda),-0.7624218132981714
+Polynomial Model?,Robust Mixture Discriminant Analysis (rmda),-0.7739468429451726
+Model that has Relevance Vector Machines?,Robust Mixture Discriminant Analysis (rmda),-0.9349331511394818
+Rule-Based Model?,Robust Mixture Discriminant Analysis (rmda),-0.7822361015313108
+Mixture Model?,ROC-Based Classifier (rocc),-0.7038959249422168
+Model that has Ordinal Outcomes?,ROC-Based Classifier (rocc),-0.9188403105832912
+Model that has Random Forest?,ROC-Based Classifier (rocc),-0.7854196966388295
+Model for Classification?,Rotation Forest (rotationForest),0.9863056586006136
+Model that has Random Forest?,Rotation Forest (rotationForest),-0.8934346232632502
+Model for Classification?,CART (rpart1SE),0.9397576846012584
+Model for Regression?,CART (rpart2),0.8616540971638487
+Model that has Gaussian Process?,Cost-Sensitive CART (rpartCost),-0.903248216642682
+Model that has Implicit Feature Selection?,Cost-Sensitive CART (rpartCost),0.937450392328174
+Model for Classification?,CART or Ordinal Responses (rpartScore),0.8209791825969563
+Model that has Multivariate Adaptive Regression Splines?,CART or Ordinal Responses (rpartScore),-0.7633408210110342
+Model that has Relevance Vector Machines?,CART or Ordinal Responses (rpartScore),-0.8883110977693212
+Model that has String Kernel?,CART or Ordinal Responses (rpartScore),-0.949625523407186
+Linear Regression Models?,Quantile Regression with LASSO penalty (rqlasso),-0.6606607256103321
+Model Tree?,Quantile Regression with LASSO penalty (rqlasso),-0.7303237094521697
+Model that has Neural Network?,Quantile Regression with LASSO penalty (rqlasso),-0.7678660919311466
+Model for Classification?,Regularized Random Forest (RRF),0.8281198858397186
+Generalized Linear Models?,Regularized Random Forest (RRF),-0.7824372541076824
+L1 Regularization Models?,Regularized Random Forest (RRFglobal),-0.7846852295817942
+Model that has Implicit Feature Selection?,Robust Regularized Linear Discriminant Analysis (rrlda),-0.8884915972732177
+Model for Classification?,Robust SIMCA (RSimca),0.9742363506714892
+Model that has Kernel Method?,Robust SIMCA (RSimca),-0.7817464523426633
+Model that has Neural Network?,Robust SIMCA (RSimca),-0.802366696003803
+Model that has Partial Least Squares?,Robust SIMCA (RSimca),-0.8733470507059785
+Prototype Models?,Robust SIMCA (RSimca),-0.628701195245577
+Model that has Ridge Regression?,Robust SIMCA (RSimca),-0.7951345532971021
+Model for Regression?,Relevance Vector Machines with Linear Kernel (rvmLinear),0.9507469606248689
+Model for Regression?,Relevance Vector Machines with Polynomial Kernel (rvmPoly),0.8481610640670079
+Model that has Logic Regression?,Subtractive Clustering and Fuzzy c-Means Rules (SBC),-0.9349992635492548
+Model that has Relevance Vector Machines?,Subtractive Clustering and Fuzzy c-Means Rules (SBC),-0.761490566109853
+Model that has Binary Predictors Only?,Shrinkage Discriminant Analysis (sda),-0.8779117115987538
+Model Tree?,Shrinkage Discriminant Analysis (sda),-0.7188895450879857
+Model that has Robust Methods?,Sparse Distance Weighted Discrimination (sdwd),-0.8362612866468679
+L2 Regularization Models?,Partial Least Squares (simpls),-0.7680060933597195
+Generalized Linear Model?,Fuzzy Rules Using the Structural Learning Algorithm on Vague Environment (SLAVE),-0.6840871468763431
+Model that has Bagging?,Stabilized Linear Discriminant Analysis (slda),-0.8079338538057007
+Model that has Feature Selection Wrapper?,Stabilized Linear Discriminant Analysis (slda),-0.80111697884792
+L2 Regularization Models?,Stabilized Linear Discriminant Analysis (slda),-0.6755113828985083
+Model that has Discriminant Analysis?,Sparse Mixture Discriminant Analysis (smda),0.8823776492214004
+Model that has Support Vector Machines?,Sparse Partial Least Squares (spls),-0.8109893003397647
+Generalized Additive Model?,Quadratic Discriminant Analysis with Stepwise Feature Selection (stepQDA),-0.7634966735619243
+Model that has Bagging?,Supervised Principal Component Analysis (superpc),-0.7801219735544196
+Model that has Categorical Predictors Only?,Supervised Principal Component Analysis (superpc),-0.7733762915716029
+Model that has Logistic Regression?,Support Vector Machines with Boundrange String Kernel (svmBoundrangeString),-0.910991291748391
+Model that has Bagging?,Support Vector Machines with Exponential String Kernel (svmExpoString),-0.8308367498612479
+Bayesian Model?,Support Vector Machines with Exponential String Kernel (svmExpoString),-0.6035564098750534
+Model that has Categorical Predictors Only?,Support Vector Machines with Exponential String Kernel (svmExpoString),-0.9111920668070498
+Generalized Additive Model?,Support Vector Machines with Exponential String Kernel (svmExpoString),-0.7138674924072581
+Model that has Robust Methods?,Support Vector Machines with Exponential String Kernel (svmExpoString),0.7918789774429453
+Model for Classification?,Support Vector Machines with Linear Kernel (svmLinear),0.8246958289246172
+Model that has Bagging?,Support Vector Machines with Linear Kernel (svmLinear),-0.897440494277273
+Generalized Linear Models?,Support Vector Machines with Linear Kernel (svmLinear2),-0.7570936334157249
+Model that has L2 Regularization?,L2 Regularized Support Vector Machine (dual) with Linear Kernel (svmLinear3),-0.833883384052618
+Model that has Binary Predictors Only?,Linear Support Vector Machines with Class Weights (svmLinearWeights),-0.9230908827844552
+L2 Regularization Models?,Linear Support Vector Machines with Class Weights (svmLinearWeights),-0.6638235827273988
+Mixture Model?,L2 Regularized Linear Support Vector Machines with Class Weights (svmLinearWeights2),-0.69504540385848
+Model that has Random Forest?,L2 Regularized Linear Support Vector Machines with Class Weights (svmLinearWeights2),-0.9083765040445524
+Model that has Kernel Method?,Support Vector Machines with Polynomial Kernel (svmPoly),0.776838645042628
+Model that has Linear Regression?,Support Vector Machines with Polynomial Kernel (svmPoly),-0.8743188026755991
+Model that has Ordinal Outcomes?,Support Vector Machines with Polynomial Kernel (svmPoly),-0.8916373860835141
+Model that has Robust Methods?,Support Vector Machines with Polynomial Kernel (svmPoly),0.8333955836288641
+Model that has Kernel Method?,Support Vector Machines with Radial Basis Function Kernel (svmRadial),0.8328203217726823
+Generalized Linear Model?,Support Vector Machines with Radial Basis Function Kernel (svmRadialCost),-0.6300470738281599
+Model that has Support Vector Machines?,Support Vector Machines with Radial Basis Function Kernel (svmRadialCost),0.772844284221432
+Model that has L1 Regularization?,Support Vector Machines with Radial Basis Function Kernel (svmRadialSigma),-0.870487681685986
+L2 Regularization Models?,Support Vector Machines with Radial Basis Function Kernel (svmRadialSigma),-0.7304624048089212
+Model that has Partial Least Squares?,Support Vector Machines with Radial Basis Function Kernel (svmRadialSigma),-0.9308101848028716
+Model that has L2 Regularization?,Support Vector Machines with Class Weights (svmRadialWeights),-0.8407865112782666
+Model that has Kernel Method?,Support Vector Machines with Spectrum String Kernel (svmSpectrumString),0.8909952055492474
+L1 Regularization Models?,Support Vector Machines with Spectrum String Kernel (svmSpectrumString),-0.7330161363089813
+Model that has Self-Organising Maps?,Tree Augmented Naive Bayes Classifier Structure Learner Wrapper (tanSearch),-0.8437962803342058
+Model that has Bagging?,Bagged CART (treebag),0.9070024873414372
+Model that has Regularization?,Bagged CART (treebag),-0.7920115731596767
+Model that has Patient Rule Induction Method?,Variational Bayesian Multinomial Probit Regression (vbmpRadial),-0.9195265824801672
+Model that has ROC Curves?,Variational Bayesian Multinomial Probit Regression (vbmpRadial),-0.9089698196961424
+What model Accepts Case Weights?,Adjacent Categories Probability Model for Ordinal Data (vglmAdjCat),0.7982497794566353
+Model that has Ordinal Outcomes?,Adjacent Categories Probability Model for Ordinal Data (vglmAdjCat),0.9132070437403405
+Model that has Cost Sensitive Learning?,Cumulative Probability Model for Ordinal Data (vglmCumulative),-0.8036832287265823
+Prototype Models?,Cumulative Probability Model for Ordinal Data (vglmCumulative),-0.6022244550126573
+Mixture Model?,Wang and Mendel Fuzzy Rules (WM),-0.6058511373934947
+Ensemble Model?,Weighted Subspace Random Forest (wsrf),0.7097284611471567
+Model that has Implicit Feature Selection?,Weighted Subspace Random Forest (wsrf),0.8418538511765988
+Model that has Multivariate Adaptive Regression Splines?,eXtreme Gradient Boosting (xgbDART),-0.7921180270990107
+Model that has Implicit Feature Selection?,eXtreme Gradient Boosting (xgbLinear),0.8942180861230891
+Linear Classifier Models?,eXtreme Gradient Boosting (xgbLinear),0.6401463027703516
+Model that has Patient Rule Induction Method?,eXtreme Gradient Boosting (xgbLinear),-0.9492872253891798
+Model that has Support Vector Machines?,eXtreme Gradient Boosting (xgbTree),-0.8297067104048986
+ What does AdaBag stand for?,Bagged AdaBoost,0.8655551373958588
+ What is bagFDA?,a machine learning model,0.4507908970117569
+ What is it used for?,Classification,0.9296351075172424
+ BagFDA accepts case weights.,Bagged Flexible Discriminant Analysis,0.3518117889761925
+ What is blassoAveraged?,a machine learning model,0.6214755773544312
+ What is Boosted Linear Model used for?,Classification. It is used for Regression,0.5395368337631226
+ What is a Tree-Based Model?,It is a Rule-Based Model,0.3152926340699196
+ What is the name of the machine learning model?,Conditional Inference Tree,0.79567751288414
+ What is ctree2?,Conditional Inference Tree (ctree2) is a machine learning model,0.4372505694627762
+ What is used for Classification?,Stacked AutoEncoder Deep Neural Network,0.6280655562877655
+ What is Distance Weighted Discrimination with Polynomial Kernel?,a machine learning model,0.5854978710412979
+ What is Fuzzy Rules Using Genetic Cooperative-Competitive Learning and Pittsburgh?,a machine learning model,0.7145028412342072
+ What is Fuzzy Inference Rules by Descent Method used for?,Regression,0.9725096523761748
+ What does foba stand for?,Ridge Regression with Variable Selection,0.9572642743587494
+ What is the generalized additive model used for?,Regression,0.721134603023529
+ What is it used for?,Classification,0.8985738158226013
+ Genetic Lateral Tuning and Rule Selection of Linguistic Fuzzy Systems is a machine learning model.,Rule-Based Model,0.0266780154779553
+ It is a Generalized Linear Model.,glmnet,0.8570438027381897
+ What is lars2?,Least Angle Regression,0.5715638995170593
+ What is lda2 used for?,Classification,0.9746335744857788
+ What isloclda used for?,Classification,0.9552346169948578
+ What is lssvmPoly?,a machine learning model,0.5550184845924377
+ What is lssvmRadial?,a machine learning model,0.6261196136474609
+ What is used for Classification?,Multilayer Perceptron Network with Weight Decay,0.7620855569839478
+ What does mlpML stand for?,Multi-Layer Perceptron,0.6693765819072723
+ What is used for Classification?,Multi-Layer Perceptron,0.909758985042572
+ What is Semi-Naive Structure Learner Wrapper used for?,Classification,0.958863377571106
+ Random Forest is a machine learning model.,ordinalRF) is a machine learning model.It is used for Classification. It has Bagging. It is a Ensemble Model. It has Implicit Feature Selection. It has Ordinal Outcomes. It has Random Forest,0.040005849674344
+ What is Random Forest used for?,Classification,0.9450181126594543
+ What is the name of the machine learning model that is used for Classification?,Oblique Random Forest,0.8118751347064972
+ What is Neural Networks with Feature Extraction used for?,Classification,0.794131338596344
+ What is Penalized Discriminant Analysis?,a machine learning model,0.6588633060455322
+ What is Penalized Discriminant Analysis?,a machine learning model,0.6509549021720886
+ What is Penalized Linear Regression used for?,Regression,0.9741680920124054
+ What is qda used for?,Classification,0.973336100578308
+ What is qrf used for?,Regression,0.9571224749088288
+ What is Quantile Regression Neural Network used for?,Regression,0.959743320941925
+ What is the name of the machine learning model that is used for Classification?,Random Forest,0.901928335428238
+ What is RFlda?,Factor-Based Linear Discriminant Analysis (RFlda) is a machine learning model,0.5763723403215408
+ What is rpartCost?,Cost-Sensitive CART (rpartCost) is a machine learning model,0.5253722965717316
+ What is SBC used for?,Regression,0.9699464738368988
+ What does sdwd stand for?,Sparse Distance Weighted Discrimination,0.964994251728058
+ What is Fuzzy Rules Using the Structural Learning Algorithm on Vague Environment used for?,Classification,0.8727255761623383
+ What is slda used for?,Classification,0.9704714119434356
+ What is Stabilized Nearest Neighbor Classifier?,a machine learning model,0.7539203763008118
+ What is the name of the machine learning model used for Classification?,Sparse Linear Discriminant Analysis,0.6970584690570831
+ What is Sparse Partial Least Squares?,a machine learning model,0.6925457417964935
+ What does stepLDA stand for?,Stepwise Feature Selection,0.7983840703964233
+ Supervised Principal Component Analysis is used for what?,Regression,0.9864684343338012
+ What is Support Vector Machines with Boundrange String Kernel?,a machine learning model,0.7132378816604614
+ What is svmLinearWeights2 a machine learning model used for?,Classification,0.9544914364814758
+ What is Support Vector Machines with Radial Basis Function Kernel?,a machine learning model,0.6802987456321716
+ What is Adjacent Categories Probability Model for Ordinal Data used for?,Classification,0.9431897699832916
+ What is vglmCumulative used for?,Classification,0.9097814559936525
