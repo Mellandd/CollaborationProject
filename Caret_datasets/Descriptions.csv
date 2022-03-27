@@ -1,4 +1,4 @@
-document_identifier,document_text
+Title,Description
 Boosted Classification Trees (ada),Boosted Classification Trees (ada)is a machine learning model.It is used for Classification. It has Boosting. It is a Ensemble Model. It has Handle Missing Predictor Data. It has Implicit Feature Selection. It is a Tree-Based Model. It has Two Class Only. 
 Bagged AdaBoost (AdaBag),Bagged AdaBoost (AdaBag)is a machine learning model.It is used for Classification. It has Bagging. It has Boosting. It is a Ensemble Model. It has Handle Missing Predictor Data. It has Implicit Feature Selection. It is a Tree-Based Model. 
 AdaBoost.M1 (AdaBoost.M1),AdaBoost.M1 (AdaBoost.M1)is a machine learning model.It is used for Classification. It has Boosting. It is a Ensemble Model. It has Handle Missing Predictor Data. It has Implicit Feature Selection. It is a Tree-Based Model. 
